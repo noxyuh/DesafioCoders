@@ -6,9 +6,9 @@ Pandas para manipular os dados.
  Matplotlib para visualizar os dados e gerar gráficos.
 
 Etapas:
-Utilizei o pandas para ler o arquivo .csv.
-Criei um DataFrame para visualizar os dados.
-Calculei a receita total gerada pelos cursos.
+- Utilizei o pandas para ler o arquivo .csv.
+- Criei um DataFrame para visualizar os dados.
+- Calculei a receita total gerada pelos cursos.
 Identifiquei qual curso foi o mais vendido.
 Converti a coluna 'Data' para o formato datetime usando pd.to_datetime() para realizar a análise proposta.
 Gerei um gráfico para visualizar as vendas ao longo do tempo.
